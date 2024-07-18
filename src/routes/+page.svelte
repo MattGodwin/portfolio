@@ -2,10 +2,13 @@
 	import Seo from 'sk-seo';
 </script>
 
-<Seo>
-	title="Matt Godwin Portfolio" description="Matt Godwin's Portfolio" keywords="Matt Godwin, Matthew
-	Godwin, Matt, Godwin" index="true"
-</Seo>
+<Seo
+	title="Matt Godwin"
+	description="Matt Godwin's Portfolio"
+	keywords="Matt Godwin, Matthew
+	Godwin, Matt, Godwin"
+	index="true"
+></Seo>
 
 <ul class="absolute bottom-0 left-0 p-6">
 	<li>
